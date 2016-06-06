@@ -1,0 +1,15 @@
+body {
+  height: 100%;
+  background: url('../images/massivedoor.jpg') rgb(255, 255, 255);
+  background-size: cover;
+  background-position: center center;
+  font-size: 1em;
+}
+
+.image {
+  display: block;
+  width: 730px;
+  height: auto;
+  margin: 123px auto 0;
+  overflow: hidden;
+}
